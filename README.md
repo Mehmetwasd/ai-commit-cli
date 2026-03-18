@@ -6,4 +6,4 @@ AI-powered CLI tool that generates git commit messages automatically
 
 ## 🔗 Try the tool
 
-👉 https://https://mehmetwasd.itch.io/ai-commit-generator
+👉 https://mehmetwasd.itch.io/ai-commit-generator
